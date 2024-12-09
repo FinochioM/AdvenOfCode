@@ -16,5 +16,5 @@ fun main() {
             kotlin.math.abs(left - right)
         }
 
-    println("Total distance: $totalDistance")
+    println("Total distance is: $totalDistance")
 }
